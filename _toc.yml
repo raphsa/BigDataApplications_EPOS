@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: bigdata
+chapters:
+- file: matrix
+- file: machinelearning
+- file: shrinkage
+- file: princomp
+- file: timeseries
+- file: project
